@@ -1,6 +1,10 @@
 # 💫 About Me:
-like task managers.<br><br>I'm looking to collaborate on: Portfolio projects such as React apps (Quick Notes, Amazon clone) and full-stack features with AI integration.<br><br>I'm looking for help with: Designing data models/schemas, backend controllers, and optimizing GitHub for entry-level roles.<br><br>I'm currently learning: Java full-stack roadmap, SQL expertise, DSA (Big-O, recursion), and advanced MERN auth.<br><br>Fun fact: Plays cricket casually on the village team while grinding daily coding sessions.
-
+🔭 I’ currently working on: Building backend authentication flows and schemas for MERN projects like task managers.
+👯 I’m looking to collaborate on: Portfolio projects such as React apps (Quick Notes, Amazon clone) and full-stack features with AI integration.
+🤝 I’m looking for help with: Designing data models/schemas, backend controllers, and optimizing GitHub for entry-level roles.
+🌱 I’m currently learning: Java full-stack roadmap, SQL expertise, DSA (Big-O, recursion), and advanced MERN auth.
+💬 Ask me about: MERN stack authentication, backend schema design, Java full-stack roadmaps, SQL mastery, or DSA interview prep.
+⚡ Fun fact: Plays cricket while grinding daily coding sessions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-sathe-33h) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satheomkar71@gmail.com) 
